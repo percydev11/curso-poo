@@ -34,17 +34,17 @@ Aquí también se muestra al conductor que maneja dicho automóvil.
 **Route:** Ruta desde un punto a otro.
 
 **Car:**
-UberX
-UberPool
-UberBlack
-UberVan
+UberX,
+UberPool,
+UberBlack,
+UberVan,
 
 **Driver:** Quien conduce el automóvil Uber.
 
 **Payment:** Método de pago.
-Card
-PayPal
-Cash
+Card,
+PayPal,
+Cash,
 
 **Trip:** Contiene los datos del viaje, tales como ruta, automóvil escogido, usuario que solicita el servicio, etc.
 
