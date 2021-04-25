@@ -31,24 +31,24 @@ Aquí también se muestra al conductor que maneja dicho automóvil.
 
 **User:** Quien solicita el automóvil.
 
-**Route: **Ruta desde un punto a otro.
+**Route:**Ruta desde un punto a otro.
 
-**Car: **
+**Car:**
 UberX
 UberPool
 UberBlack
 UberVan
 
-** Driver:** Quien conduce el automóvil Uber.
+**Driver:** Quien conduce el automóvil Uber.
 
-**Payment: ** Método de pago.
+**Payment:** Método de pago.
 Card
 PayPal
 Cash
 
-**Trip: **Contiene los datos del viaje, tales como ruta, automóvil escogido, usuario que solicita el servicio, etc.
+**Trip:**Contiene los datos del viaje, tales como ruta, automóvil escogido, usuario que solicita el servicio, etc.
 
 ##### DIAGRAMA DE CLASES
 
 
-[![DIAGRAMA DE CLASES UBER](https://imgur.com/gallery/YbQhA4z "DIAGRAMA DE CLASES UBER")](https://imgur.com/gallery/YbQhA4z "DIAGRAMA DE CLASES UBER")
+El diagrama de clases realizado se encuentra incluido en el repositorio.
